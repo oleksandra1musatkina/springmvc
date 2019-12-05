@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d3b214c-6340-4cdf-85b4-9ea7274d7f6f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/view/student-confirmation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/view/student-confirmation.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/view/student-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/view/student-form.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sk/itsovy/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sk/itsovy/Student.java" afterDir="false" />
     </list>
@@ -31,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sk/itsovy/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+            <state relative-caret-position="-537">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
               <folding>
                 <element signature="e#508#509#0" expanded="true" />
                 <element signature="e#538#539#0" expanded="true" />
@@ -40,6 +41,10 @@
                 <element signature="e#622#623#0" expanded="true" />
                 <element signature="e#949#950#0" expanded="true" />
                 <element signature="e#986#987#0" expanded="true" />
+                <element signature="e#1143#1144#0" expanded="true" />
+                <element signature="e#1182#1183#0" expanded="true" />
+                <element signature="e#1246#1247#0" expanded="true" />
+                <element signature="e#1302#1303#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,20 +62,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/view/student-form.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="208">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/view/student-confirmation.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="187">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -138,9 +143,9 @@
         <option value="$PROJECT_DIR$/src/sk/itsovy/HomeController.java" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/view/main-menu.jsp" />
         <option value="$PROJECT_DIR$/src/sk/itsovy/StudentController.java" />
-        <option value="$PROJECT_DIR$/WebContent/WEB-INF/view/student-confirmation.jsp" />
         <option value="$PROJECT_DIR$/src/sk/itsovy/Student.java" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/view/student-form.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/view/student-confirmation.jsp" />
       </list>
     </option>
   </component>
@@ -398,12 +403,12 @@
       <workItem from="1574623576744" duration="12932000" />
       <workItem from="1574917200738" duration="5930000" />
       <workItem from="1575320888204" duration="72000" />
-      <workItem from="1575502226059" duration="1710000" />
+      <workItem from="1575502226059" duration="2430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20644000" />
+    <option name="totallyTimeSpent" value="21364000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="655" height="695" extended-state="0" />
@@ -522,6 +527,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/itsovy/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1143#1144#0" expanded="true" />
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1246#1247#0" expanded="true" />
+            <element signature="e#1302#1303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sk/itsovy/StudentController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
@@ -532,32 +556,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/view/student-confirmation.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sk/itsovy/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-          <folding>
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#949#950#0" expanded="true" />
-            <element signature="e#986#987#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/view/student-form.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="208">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/view/student-confirmation.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
         </state>
       </provider>
     </entry>
