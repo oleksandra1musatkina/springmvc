@@ -8,6 +8,8 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="spring-aop-5.0.2.RELEASE-javadoc" />
+          <element id="library" level="project" name="javax.validation:validation-api:2.0.1.Final" />
+          <element id="library" level="project" name="jstl-1.2" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="spring-project/web/Web" />

@@ -7,8 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d3b214c-6340-4cdf-85b4-9ea7274d7f6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jstl-1.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_project_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_project_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/view/student-confirmation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/view/student-confirmation.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/view/student-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/view/student-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_project_war_exploded/WEB-INF/classes/sk/itsovy/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring_project_war_exploded/WEB-INF/classes/sk/itsovy/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_project_war_exploded/WEB-INF/view/student-confirmation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring_project_war_exploded/WEB-INF/view/student-confirmation.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_project_war_exploded/WEB-INF/view/student-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring_project_war_exploded/WEB-INF/view/student-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-project/sk/itsovy/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-project/sk/itsovy/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sk/itsovy/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sk/itsovy/Student.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,30 +32,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/view/main-menu.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sk/itsovy/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-537">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            <state relative-caret-position="680">
+              <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
               <folding>
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-                <element signature="e#622#623#0" expanded="true" />
-                <element signature="e#949#950#0" expanded="true" />
-                <element signature="e#986#987#0" expanded="true" />
-                <element signature="e#1143#1144#0" expanded="true" />
-                <element signature="e#1182#1183#0" expanded="true" />
-                <element signature="e#1246#1247#0" expanded="true" />
-                <element signature="e#1302#1303#0" expanded="true" />
+                <element signature="e#1461#1462#0" expanded="true" />
+                <element signature="e#1527#1528#0" expanded="true" />
+                <element signature="e#1583#1584#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sk/itsovy/StudentController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
+            <state relative-caret-position="374">
               <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -62,20 +57,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/view/student-form.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="78">
+              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/view/student-confirmation.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+            <state relative-caret-position="287">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -157,10 +161,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="983" />
-    <option name="height" value="1043" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="984" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -168,6 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,30 +219,34 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575026208049" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kk/SPRING_template-master" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576632797396" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/jstl-1.2.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Oleksandra\Desktop\spring-project\lib" />
+      <recent name="C:\Users\Oleksandra\Desktop\spring-project\WebContent\WEB-INF\lib" />
       <recent name="C:\Users\Oleksandra\Desktop\spring-project\WebContent\WEB-INF\view" />
       <recent name="C:\Users\Oleksandra\Desktop\spring-project\src\sk\itsovy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Oleksandra\Desktop\spring-project\lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -403,18 +412,20 @@
       <workItem from="1574623576744" duration="12932000" />
       <workItem from="1574917200738" duration="5930000" />
       <workItem from="1575320888204" duration="72000" />
-      <workItem from="1575502226059" duration="2430000" />
+      <workItem from="1575502226059" duration="2524000" />
+      <workItem from="1576490004701" duration="4924000" />
+      <workItem from="1576632909073" duration="1269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21364000" />
+    <option name="totallyTimeSpent" value="27651000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="655" height="695" extended-state="0" />
+    <frame x="-8" y="-8" width="656" height="696" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27058825" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29194632" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -424,7 +435,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.48490232" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46985817" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -469,13 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sk/itsovy/HelloWorldController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -490,6 +494,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/itsovy/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
+          <folding>
+            <element signature="e#1461#1462#0" expanded="true" />
+            <element signature="e#1527#1528#0" expanded="true" />
+            <element signature="e#1583#1584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sk/itsovy/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -527,46 +560,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sk/itsovy/Student.java">
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/view/student-confirmation.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-537">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding>
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#949#950#0" expanded="true" />
-            <element signature="e#986#987#0" expanded="true" />
-            <element signature="e#1143#1144#0" expanded="true" />
-            <element signature="e#1182#1183#0" expanded="true" />
-            <element signature="e#1246#1247#0" expanded="true" />
-            <element signature="e#1302#1303#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sk/itsovy/StudentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="287">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/view/student-form.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/view/student-confirmation.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="78">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -649,7 +653,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>javax.servlet:javax.servlet-api:4.0.1</last-edited>
+          <last-edited>jstl-1.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
